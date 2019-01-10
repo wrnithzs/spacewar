@@ -1,2 +1,2 @@
 # spacewar
-assigntment spacewar game  5810110294
+assignment spacewar game  5810110294
